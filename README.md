@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacktam12" alt="zacktam12" /></a> </p>
 
-- 🔭 I’m currently studying [Software engineering at Haramaya university/Ethiopia] (https://www.haramaya.edu.et/)
+- 🔭 I’m currently studying [Software engineering at Haramaya university/Ethiopia](https://www.haramaya.edu.et/)
 
 - 💬 Ask me about **HTML,CSS,JS and React**
 
@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zacktam12&show_icons=true&locale=en&layout=compact" alt="zacktam12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zacktam12&" alt="zacktam12" /></p>
+<p><img align="center" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="zack" /></p>
