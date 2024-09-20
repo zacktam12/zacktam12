@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zekarias</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia </h3>
-<img align="right" alt="img width="400"src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="img" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacktam12&label=Profile%20views&color=0e75b6&style=flat" alt="zacktam12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacktam12" alt="zacktam12" /></a> </p>
 
-- 🔭 I’m currently studying [Software engineering at Haramaya university/Ethiopia](https://www.haramaya.edu.et/)
+- 🔭 I’m currently studying [Software engineering at Haramaya university/Ethiopia] (https://www.haramaya.edu.et/)
 
 - 💬 Ask me about **HTML,CSS,JS and React**
 
