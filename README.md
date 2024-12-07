@@ -4,28 +4,28 @@
 
 - 🔭 I’m currently studying [Software engineering at Haramaya university/Ethiopia](https://www.haramaya.edu.et/)
 
-- 💬 Ask me about
-   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
+- 💬 Ask me about:
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
 
-- 📫 How to reach me **zekariastamiru12@gmail.com**
+- 📫 How to reach me: **zekariastamiru12@gmail.com**
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/zacktam12">
+    <img src="https://github-readme-stats.vercel.app/api?username=zacktam12&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   </a>
   <br />
   <a href="https://github.com/zacktam12">
-    <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=zacktam12&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
   <br />
   <a href="https://github.com/zacktam12">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=dark" alt="GitHub Contributions" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zacktam12&theme=dark" alt="GitHub Contributions" />
   </a>
 </div>
 
@@ -33,8 +33,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.zacktam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.zacktam" height="30" width="40" /></a>
-<a href="https://twitter.com/zacktaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zacktaam" height="30" width="40" /></a>
+  <a href="https://dev.to/dev.zacktam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.zacktam" height="30" width="40" /></a>
+  <a href="https://twitter.com/zacktaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zacktaam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
