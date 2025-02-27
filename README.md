@@ -17,14 +17,14 @@
 
 ## **📊 GitHub Status**
 <p align="center">
-  <a href="https://github.com/ZekariasTamiru">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZekariasTamiru&show_icons=true&theme=radical" alt="Zekarias's GitHub Stats" />
+  <a href="https://github.com/zacktam12">
+    <img src="https://github-readme-stats.vercel.app/api?username=zacktam12&show_icons=true&theme=radical" alt="Zekarias's GitHub Stats" />
   </a>
-  <a href="https://github.com/ZekariasTamiru">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekariasTamiru&theme=radical" alt="Zekarias's Streak" />
+  <a href="https://github.com/zacktam12">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacktam12&theme=radical" alt="Zekarias's Streak" />
   </a>
-  <a href="https://github.com/ZekariasTamiru">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZekariasTamiru&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/zacktam12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacktam12&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
