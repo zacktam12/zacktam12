@@ -30,5 +30,14 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zacktam12&show_icons=true&theme=tokyonight" alt="Zack's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacktam12&layout=compact&theme=tokyonight" alt="Zack's top languages" />
+</p>
+
+---
+
 ### 📬 Connect With Me
 **📧 Email:** [zekariastamiru12@gmail.com](mailto:zekariastamiru12@gmail.com)
