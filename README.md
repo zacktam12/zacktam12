@@ -30,9 +30,6 @@
 
 ---
 
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -41,7 +38,7 @@
 
 ---
 
-### ⏳ Contribution Streak
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacktam12&theme=tokyonight" alt="GitHub Streak" />
@@ -49,7 +46,26 @@
 
 ---
 
+### 📊 GitHub Stats & Rank
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zacktam12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zacktam12&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 GitHub Grade View (Top Languages)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacktam12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
 ### 📬 Connect With Me
 
 📧 **Email:** [zekariastamiru12@gmail.com](mailto:zekariastamiru12@gmail.com)
-
