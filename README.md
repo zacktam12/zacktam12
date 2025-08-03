@@ -4,7 +4,7 @@
 <img alt="coding gif" width="400" align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🎓 I’m currently studying **Software Engineering** at [Haramaya University](https://www.haramaya.edu.et/)
-- 🌐 I’m a **Full-Stack Developer** working with the **MERN stack** (MongoDB, Express.js, React, Node.js)
+- 🌐 I’m a **Full-Stack Developer** working with the **MERN stack** (MongoDB,MySql, Express.js, React, Node.js)
 - 💡 I enjoy building scalable web applications and solving real-world problems through code
 - 🤝 I value collaboration, clean code, and continuous learning
 - 📫 Reach me at: **zekariastamiru12@gmail.com**
@@ -30,6 +30,9 @@
 
 ---
 
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -38,7 +41,7 @@
 
 ---
 
-### 🔥 Contribution Streak
+### ⏳ Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacktam12&theme=tokyonight" alt="GitHub Streak" />
@@ -46,26 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats & Rank
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zacktam12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zacktam12&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 GitHub Grade View (Top Languages)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacktam12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 📧 **Email:** [zekariastamiru12@gmail.com](mailto:zekariastamiru12@gmail.com)
+
