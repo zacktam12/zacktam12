@@ -11,17 +11,10 @@
 
 ---
 
-### 📊 Grade State  
-Here’s how I rate myself in different areas:
-
-| Skill Area         | Grade |
-|--------------------|-------|
-| **Frontend (React, Next.js, Tailwind)** | 🅰️ |
-| **Backend (Node.js, Express, MongoDB, MySQL)** | 🅰️ |
-| **Problem Solving / Algorithms** | 🅱️ |
-| **UI/UX (Figma, Design Systems)** | 🅱️ |
-| **Version Control (Git/GitHub)** | 🅰️ |
-| **Dev Tools (Postman, VS Code, etc.)** | 🅰️ |
+### 📊 GitHub Grade  
+<p align="center">
+  <img src="https://grademe.dev/api?username=zacktam12" alt="GitHub Grade" />
+</p>
 
 ---
 
