@@ -9,14 +9,6 @@
 - 🤝 I value collaboration, clean code, and continuous learning
 - 📫 Reach me at: **zekariastamiru12@gmail.com**
 
----
-
-### 📊 GitHub Grade  
-<p align="center">
-  <img src="https://grademe.dev/api?username=zacktam12" alt="GitHub Grade" />
-</p>
-
----
 
 ### 💬 Tech I Work With
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
