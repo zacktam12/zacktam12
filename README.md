@@ -43,12 +43,12 @@ As a dedicated **Software Engineer** based in Ethiopia, I specialize in building
 
 ### 📊 Development Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacktam12&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacktam12&theme=radical&hide_border=true" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zacktam12&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zacktam12&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+<br/>
 
 </div>
