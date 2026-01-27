@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Zekarias Tamiru 👋
-### AI SaaS & Full-Stack Engineer | Next.js Specialist
+### Software Engineer | Full-Stack Developer | AI Systems Architect
 
 <br/>
 
@@ -9,19 +9,18 @@
 <tr>
 <td width="55%" valign="center">
 
-**Engineering the future of autonomous web applications.**
+**I turn complex problems into elegant, scalable software solutions.**
 
-I am a **Software Engineer** specializing in building high-performance AI-integrated products. I bridge the gap between complex AI logic and seamless user experiences, focusing on **Next.js**, **Supabase**, and **Agentic Workflows**.
+As a dedicated **Software Engineer** based in Ethiopia, I specialize in building robust digital products from the ground up. I bridge the gap between complex logic and seamless user experiences through clean architecture and efficient engineering.
 
-- 🤖 **Current Focus:** Building autonomous research agents and RAG-based SaaS MVPs.
-- 🎓 **Background:** Final year Software Engineering student at Haramaya University.
-- 💡 **Philosophy:** Writing clean, maintainable code is not a choice; it's a requirement for scalability.
-- 🛠️ **Strategy:** Deploying production-ready PWAs that offer native-app performance on the web.
+- 🔭 **Current Focus:** Engineering autonomous AI agents and scalable SaaS architectures.
+- 🎓 **Background:** Studying **Software Engineering** at [Haramaya University](https://www.haramaya.edu.et/).
+- 💡 **Philosophy:** I believe in writing code that is not only functional but also maintainable and clean.
+- 🤝 **Collaboration:** I thrive in building high-impact MVPs and contributing to innovative system designs.
 
 <br/>
 
 [![Contact on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_LINK_HERE)
-[![Portfolio](https://img.shields.io/badge/Live-Demos-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
 
 </td>
 <td width="40%" valign="center">
@@ -32,30 +31,15 @@ I am a **Software Engineer** specializing in building high-performance AI-integr
 
 ---
 
-### 🛠️ The Tech Stack
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-</div>
-
----
-
 ### 🚀 Specialist Offerings
 
-| **AI Integration** | **Full-Stack SaaS** | **Modern PWAs** |
+| **AI Integration** | **Full-Stack Systems** | **SaaS Architecture** |
 |:---:|:---:|:---:|
-| Implementing RAG, custom agents, and LLM workflows (OpenAI/Claude). | Building robust architectures with Next.js App Router and PostgreSQL. | Developing installable, offline-capable web apps for mobile & desktop. |
+| Implementing autonomous workflows, RAG pipelines, and intelligent agentic logic. | Developing secure, high-performance server-side logic and robust user interfaces. | Designing database structures and scalable workflows for production-ready products. |
 
 ---
 
-### 📊 Engineering Stats
+### 📊 Development Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacktam12&theme=radical&hide_border=true" alt="Streak Stats" />
