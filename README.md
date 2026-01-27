@@ -20,8 +20,6 @@ As a dedicated **Software Engineer** based in Ethiopia, I specialize in building
 
 <br/>
 
-[![Contact on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_LINK_HERE)
-
 </td>
 <td width="40%" valign="center">
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e64726962626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%">
