@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Zekarias Tamiru 👋
-### Software Engineer | Full-Stack Developer | Problem Solver
+### AI SaaS & Full-Stack Engineer | Next.js Specialist
 
 <br/>
 
@@ -9,39 +9,53 @@
 <tr>
 <td width="55%" valign="center">
 
-**I turn complex problems into elegant, scalable software solutions.**
+**Engineering the future of autonomous web applications.**
 
-As a dedicated **Software Engineer** based in Ethiopia, I specialize in building robust digital products from the ground up. I focus on clean architecture, efficient algorithms, and delivering seamless user experiences.
+I am a **Software Engineer** specializing in building high-performance AI-integrated products. I bridge the gap between complex AI logic and seamless user experiences, focusing on **Next.js**, **Supabase**, and **Agentic Workflows**.
 
-- 🔭 **Current Focus:** Engineering scalable web applications and system architecture.
-- 🎓 **Background:** Studying **Software Engineering** at [Haramaya University](https://www.haramaya.edu.et/).
-- 💡 **Philosophy:** I believe in writing code that is not only functional but also maintainable and clean.
-- 🤝 **Collaboration:** I thrive in team environments where innovation and continuous learning are the norm.
+- 🤖 **Current Focus:** Building autonomous research agents and RAG-based SaaS MVPs.
+- 🎓 **Background:** Final year Software Engineering student at Haramaya University.
+- 💡 **Philosophy:** Writing clean, maintainable code is not a choice; it's a requirement for scalability.
+- 🛠️ **Strategy:** Deploying production-ready PWAs that offer native-app performance on the web.
 
 <br/>
 
-<a href="mailto:zekariastamiru12@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Collaborate-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
-</a>
+[![Contact on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Live-Demos-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
 
 </td>
 <td width="40%" valign="center">
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%">
+<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e64726962626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%">
 </td>
 </tr>
 </table>
 
 ---
 
-### 🚀 What I Bring to the Table
+### 🛠️ The Tech Stack
 
-| **Frontend Engineering** | **Backend Architecture** | **System Design** |
-|:---:|:---:|:---:|
-| Creating responsive, intuitive, and dynamic user interfaces that drive engagement. | Building secure, high-performance APIs and server-side logic to power complex apps. | Designing database structures and workflows for scalability and reliability. |
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 Development Activity
+### 🚀 Specialist Offerings
+
+| **AI Integration** | **Full-Stack SaaS** | **Modern PWAs** |
+|:---:|:---:|:---:|
+| Implementing RAG, custom agents, and LLM workflows (OpenAI/Claude). | Building robust architectures with Next.js App Router and PostgreSQL. | Developing installable, offline-capable web apps for mobile & desktop. |
+
+---
+
+### 📊 Engineering Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacktam12&theme=radical&hide_border=true" alt="Streak Stats" />
