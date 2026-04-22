@@ -58,16 +58,7 @@ As a dedicated **Software Engineer** based in Ethiopia, I specialize in building
 
 ---
 
-### 🛠️ Tech Stack
 
-<div align="center">
-
-**Frontend:** React, Next.js, TailwindCSS  
-**Backend:** Node.js, Express, Prisma  
-**Database:** MySQL  
-**Tools:** Git, VS Code, Postman  
-
-</div>
 
 ---
 
