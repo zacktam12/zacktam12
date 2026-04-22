@@ -51,7 +51,6 @@ As a dedicated **Software Engineer** based in Ethiopia, I specialize in building
 
 <img src="https://streak-stats.demolab.com?user=zacktam12&theme=radical&hide_border=true" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=zacktam12&show_icons=true&theme=radical" />
 
 </div>
 
